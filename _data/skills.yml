@@ -1,9 +1,14 @@
 # Skills
 
-# Education
-- skill: Education
-  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
+# Programming languages
+- skill: Programming languages
+  description: C++, C#, Python, Java, Assembler
 
-# Leadership
-- skill: Leadership
-  description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+# Technologies
+- skill: Technologies
+  description: C++ STL, C++ boost, C++ Qt, NumPy, SciPy, MatPlotLib, Git, HTML+CSS
+  
+# Mathematical skills 
+- skill: Mathematical skills 
+  description: Algorithms and Data Structures, Theory of Probability and Mathematics statistics, Linear algebra, Mathematics Analysis, Graph Theory
+
